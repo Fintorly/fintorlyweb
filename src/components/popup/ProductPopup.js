@@ -27,13 +27,13 @@ const ProductPopup = ({ open, close, img, title, dec }) => {
                     {dec
                       ? dec
                       : `
-                      Fahax'ın instgram  hesabına girerek daha fazla içeriğe ulaşabilirsin.
+                      Fintorly'ın instgram  hesabına girerek daha fazla içeriğe ulaşabilirsin.
                       .`}
                   </p>
                 </div>
                 <div className="buttons">
                   <a
-                    href="https://instagram.com/fahaxofficial"
+                    href="https://instagram.com/Fintorly"
                     target="_blank"
                     rel="noreferrer"
                     className="neoh_fn_button opensea"

@@ -41,8 +41,8 @@ const HalfKenburnsHero = () => {
       <div className="hero_content">
         <div className="container">
           <div className="content">
-            <h2 className="fn_title" title="Fahax">
-              Fahax
+            <h2 className="fn_title" title="Fintorly">
+              Fintorly
             </h2>
             <p className="fn_desc fn_animated_text">Kripto tek tık uzağında!</p>
           </div>

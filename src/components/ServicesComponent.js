@@ -51,7 +51,7 @@ const ServicesComponent = () => {
                   <p className="fn_desc fn_animated_text">
                     Kullanıcı dostu arayüzümüz sayesinde uygulamayı kolayca
                     kullanabilirsiniz. X uygulamada aradığınızı bulmakta
-                    zorlanıyorsanız Fahax tam size göre!
+                    zorlanıyorsanız Fintorly tam size göre!
                   </p>
                 </div>
               </div>
