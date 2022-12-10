@@ -14,5 +14,8 @@
     "react-dom": "18.1.0",
     "swiper": "^8.2.2",
     "waypoints": "^4.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.29.0"
   }
 }

@@ -47,10 +47,10 @@ const Index = () => {
                   alignSelf: "center",
                 }}
               >
-                F A H A X
+                FINTORLY
               </h2>
               <p className="fn_desc fn_animated_text">
-                Kripto borsası hiç bu kadar olay olmamıştı!
+                Kripto borsası hiç bu kadar kolay olmamıştı!
               </p>
             </div>
           </div>
