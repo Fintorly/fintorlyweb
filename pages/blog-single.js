@@ -44,7 +44,7 @@ const BlogSingle = () => {
                   </div>
                   <div className="m_item">
                     <span>
-                      By <a href="#">Fahax</a>
+                      By <a href="#">Fintorly</a>
                     </span>
                   </div>
                 </div>

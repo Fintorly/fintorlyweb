@@ -32,8 +32,8 @@ const Index = () => {
               }}
             >
               <h2
-                className="fahax_title"
-                title="Fahax"
+                className="Fintorly_title"
+                title="Fintorly"
                 style={{
                   width: "50vw",
                   color: "white",

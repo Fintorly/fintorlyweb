@@ -15,7 +15,7 @@ const Footer = () => {
                 </div>
                 <h3 className="fn_title">Erken erişim için bize ulaşın!</h3>
                 <p className="fn_desc">
-                  Sizde Fahax'ın özelliklerinden faydalanmak ve ilk
+                  Sizde Fintorly'nin özelliklerinden faydalanmak ve ilk
                   kullanıcılardan birisi olmak istiyorsanız, bize
                   ulaşabilirsiniz.
                 </p>
@@ -41,7 +41,7 @@ const Footer = () => {
                 <ul>
                   <li>
                     <a
-                      href="https://www.instagram.com/fahaxofficial/"
+                      href="https://www.instagram.com/Fintorly"
                       target={"_blank"}
                     >
                       <i className="fn-icon-instagram" />

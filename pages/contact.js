@@ -26,7 +26,7 @@ const Contact = () => {
                     <input
                       id="email"
                       type="text"
-                      placeholder="info@fahax.com"
+                      placeholder="info@fintorly.com"
                     />
                   </li>
                   <li>

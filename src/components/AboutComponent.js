@@ -10,14 +10,14 @@ const AboutComponent = () => {
           </div>
           <div className="content_item">
             <div className="neoh_fn_title" data-align="left">
-              <h3 className="fn_title">Fahax: Yeni Nesil Kripto</h3>
+              <h3 className="fn_title">Fintorly: Yeni Nesil Kripto</h3>
               <div className="line">
                 <span />
               </div>
             </div>
             <div className="desc">
               <p>
-                Fahax, yeni nesil kripto analiz ve portfolyo uygulamasıdır. İlk
+                Fintorly, yeni nesil kripto analiz ve portfolyo uygulamasıdır. İlk
                 hedefimiz kullanıcıya tek bir platformda aradığı her şeyi
                 sunabilmek. Amacımız size en iyi hizmeti sunmak ve sizin için en
                 iyi yatırımı yapmanızı sağlamaktır. . Uygulamamızda bulunan

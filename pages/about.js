@@ -23,7 +23,7 @@ const About = () => {
                 </div>
                 <div className="desc">
                   <p>
-                    Fahax, yeni nesil kripto analiz ve portfolyo uygulamasıdır.
+                    Fintorly, yeni nesil kripto analiz ve portfolyo uygulamasıdır.
                     İlk hedefimiz kullanıcıya tek bir platformda aradığı her
                     şeyi sunabilmek. Amacımız size en iyi hizmeti sunmak ve
                     sizin için en iyi yatırımı yapmanızı sağlamaktır. .

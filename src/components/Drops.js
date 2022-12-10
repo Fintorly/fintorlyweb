@@ -8,27 +8,27 @@ const Drops = () => {
   const dropData = [
     {
       img: "img/drops/1.jpg",
-      title: "Fahax Instagram",
+      title: "Fintorly Instagram",
     },
     {
       img: "img/drops/2.jpg",
-      title: "Fahax Instagram",
+      title: "Fintorly Instagram",
     },
     {
       img: "img/drops/3.jpg",
-      title: "Fahax Instagram",
+      title: "Fintorly Instagram",
     },
     {
       img: "img/drops/4.jpg",
-      title: "Fahax Instagram",
+      title: "Fintorly Instagram",
     },
     {
       img: "img/drops/5.jpg",
-      title: "Fahax Instagram",
+      title: "Fintorly Instagram",
     },
     {
       img: "img/drops/6.jpg",
-      title: "Fahax Instagram",
+      title: "Fintorly Instagram",
     },
   ];
 
@@ -52,7 +52,7 @@ const Drops = () => {
         <div className="container">
           {/* Main Title */}
           <div className="neoh_fn_title">
-            <h3 className="fn_title">Karşınızda Fahax!</h3>
+            <h3 className="fn_title">Karşınızda Fintorly!</h3>
             <div className="line">
               <span />
             </div>
@@ -65,7 +65,7 @@ const Drops = () => {
                 <div
                   className="item"
                   data-modal-image="img/drops/1.jpg"
-                  data-modal-title="Fahax Instagram"
+                  data-modal-title="Fintorly Instagram"
                   data-modal-description="Suspendisse eu velit est. Cras nec vestibulum quam. Donec tincidunt purus nec enim tincidunt, sit amet facilisis massa laoreet. Integer mollis nec sapien eu lacinia."
                   data-modal-opensea-url="#"
                   data-modal-discord-url=""
@@ -85,7 +85,7 @@ const Drops = () => {
                 <div
                   className="item"
                   data-modal-image="img/drops/2.jpg"
-                  data-modal-title="Fahax Instagram"
+                  data-modal-title="Fintorly Instagram"
                   data-modal-description="Suspendisse eu velit est. Cras nec vestibulum quam. Donec tincidunt purus nec enim tincidunt, sit amet facilisis massa laoreet. Integer mollis nec sapien eu lacinia."
                   data-modal-opensea-url=""
                   data-modal-discord-url="#"
@@ -105,7 +105,7 @@ const Drops = () => {
                 <div
                   className="item"
                   data-modal-image="img/drops/3.jpg"
-                  data-modal-title="Fahax Instagram"
+                  data-modal-title="Fintorly Instagram"
                   data-modal-description="Suspendisse eu velit est. Cras nec vestibulum quam. Donec tincidunt purus nec enim tincidunt, sit amet facilisis massa laoreet. Integer mollis nec sapien eu lacinia."
                   data-modal-opensea-url="#"
                   data-modal-discord-url=""
@@ -126,7 +126,7 @@ const Drops = () => {
                 <div
                   className="item"
                   data-modal-image="img/drops/4.jpg"
-                  data-modal-title="Fahax Instagram"
+                  data-modal-title="Fintorly Instagram"
                   data-modal-description="Suspendisse eu velit est. Cras nec vestibulum quam. Donec tincidunt purus nec enim tincidunt, sit amet facilisis massa laoreet. Integer mollis nec sapien eu lacinia."
                   data-modal-opensea-url="#"
                   data-modal-discord-url=""
@@ -146,7 +146,7 @@ const Drops = () => {
                 <div
                   className="item"
                   data-modal-image="img/drops/5.jpg"
-                  data-modal-title="Fahax Instagram"
+                  data-modal-title="Fintorly Instagram"
                   data-modal-description="Suspendisse eu velit est. Cras nec vestibulum quam. Donec tincidunt purus nec enim tincidunt, sit amet facilisis massa laoreet. Integer mollis nec sapien eu lacinia."
                   data-modal-opensea-url="#"
                   data-modal-discord-url=""
@@ -166,7 +166,7 @@ const Drops = () => {
                 <div
                   className="item"
                   data-modal-image="img/drops/6.jpg"
-                  data-modal-title="Fahax Instagram"
+                  data-modal-title="Fintorly Instagram"
                   data-modal-description="Suspendisse eu velit est. Cras nec vestibulum quam. Donec tincidunt purus nec enim tincidunt, sit amet facilisis massa laoreet. Integer mollis nec sapien eu lacinia."
                   data-modal-opensea-url="#"
                   data-modal-discord-url=""

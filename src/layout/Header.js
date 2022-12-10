@@ -99,7 +99,7 @@ const Header = () => {
               <ul>
                 <li>
                   <a
-                    href="https://www.instagram.com/fahaxofficial/"
+                    href="https://www.instagram.com/fintorly/"
                     target="_blank"
                     rel="noreferrer"
                   >

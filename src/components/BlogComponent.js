@@ -5,7 +5,7 @@ const BlogComponent = () => {
       <div className="container">
         {/* Main Title */}
         <div className="neoh_fn_title">
-          <h3 className="fn_title">Fahax'da Gündem</h3>
+          <h3 className="fn_title">Fintorly'da Gündem</h3>
           <div className="line">
             <span />
           </div>
